@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Test 2"; ObjectID = "NsD-qd-WP9"; */
+"NsD-qd-WP9.text" = "Test 2";
+
+/* Class = "UIButton"; normalTitle = "Informations"; ObjectID = "OBm-vZ-X9d"; */
+"OBm-vZ-X9d.normalTitle" = "Informations";
+
+/* Class = "UILabel"; text = "Tips Calculator"; ObjectID = "knq-4E-PTv"; */
+"knq-4E-PTv.text" = "Tips Calculator";
+
+/* Class = "UIButton"; normalTitle = "Lancer"; ObjectID = "r1T-Wn-mNP"; */
+"r1T-Wn-mNP.normalTitle" = "Lancer";
